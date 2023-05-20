@@ -1,0 +1,35 @@
+header{
+    height: 40px;
+    margin: auto;
+    background-color: #e55039;
+    text-align: center;
+    width: 100%;
+}
+
+h1{
+    color: white;
+    font-family: serif;
+}
+
+h2{
+    font-family: serif;
+    font-size: 17px;
+}
+
+.box{
+    overflow-y: scroll;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 2px 2px 2px 2px;
+    column-gap: 83px;
+    
+}
+
+p{
+    font-family: serif;
+    font-size: 15px;
+}
+
+
